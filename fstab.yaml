@@ -1,5 +1,4 @@
 mountpoints:
   /:
-    url: "https://author-p44170-e1385458.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
-    type: "markup"
-    suffix: ".html"
+    url: https://content.da.live/amitatdc/eds-setup-amit/
+    type: markup
